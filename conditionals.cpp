@@ -5,8 +5,8 @@ int main() {
     cout << "Enter a number: ";
     cin >> num;
     if (num < 0) {
-        cout << "The number is Negative" << endl;
+        cout << num <<" is Negative number" << endl;
     } else{
-        cout << "The number is Positive" << endl;
+        cout << num <<" is Positive number" << endl;
     }
 }
