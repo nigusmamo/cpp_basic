@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main() {
     int angle; // crate variable called angle
     cout << "Enter an angle: " ;
