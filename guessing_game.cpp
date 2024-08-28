@@ -10,7 +10,7 @@ int main() {
     cout << "Enter your guess: " ;
     cin >> guess;
     if (guess == random_number) {
-        cout << "congratulation you got it " << endl;
+        cout << "you won! " << endl;
     }else {
         cout << "sorry " << "the number was "<< random_number << endl;
     }
